@@ -1,4 +1,4 @@
-=== Number Generator by Calculator.iO ===
+# Number Generator by Calculator.iO
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
@@ -9,11 +9,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
-== Description ==
+## Description
 
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
-__Shortcode__
+### Shortcode
 
 Use the Number Generator shortcode:
 
@@ -27,21 +27,21 @@ Libraries in use:
 5. https://air-datepicker.com/
 6. https://www.chartjs.org/
 
-== Installation ==
+## Installation
 
 1. Upload the /ci_number_generator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Number Generator](https://www.calculator.io/number-generator/ "Number Generator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+## Usage
 * Add the shortcode `[ci_number_generator]` to your page or post and configure default mortgage parameters.
 * If you are using widgets, just add the Number Generator to the sidebar through the `Appearance -> Widgets -> Number Generator` menu in WordPress.
 * Add the following code: `<?php display_ci_number_generator(); ?>` to your template where you would like the Number Generator to appear.
 
-== Screenshots ==
+## Screenshots
 1. The Number Generator Input Form.
 2. The Number Generator Calculation Results.
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 * Initial release
