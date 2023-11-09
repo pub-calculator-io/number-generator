@@ -13,6 +13,8 @@ The random number generator provides a set of random numbers according to user-s
 
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
+[Number Generator Homepage](https://www.calculator.io/number-generator/ "Number Generator Homepage")
+
 __Shortcode__
 
 Use the Number Generator shortcode:
