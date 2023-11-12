@@ -13,34 +13,35 @@ The random number generator provides a set of random numbers according to user-s
 
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
-[Number Generator Homepage](https://www.calculator.io/number-generator/ "Number Generator Homepage")
+[https://www.calculator.io/number-generator/](https://www.calculator.io/number-generator/)
 
-__Shortcode__
-
-Use the Number Generator shortcode:
+__Number Generator Shortcode__
 
 `[ci_number_generator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_number_generator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Number Generator](https://www.calculator.io/number-generator/ "Number Generator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Number Generator Usage ==
+
 * Add the shortcode `[ci_number_generator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_number_generator(); ?>` to your template where you would like the Number Generator to appear.
 
 == Screenshots ==
+
 1. The Number Generator Input Form.
 2. The Number Generator Calculation Results.
+
+== Libraries used in Number Generator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
