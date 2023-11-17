@@ -1,6 +1,6 @@
 === Number Generator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: number generator, random number generator, randomizer, random number picker, number picker, random sequence generator, number selector, random digit generator, lottery number generator, numeric generator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
