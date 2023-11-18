@@ -1,4 +1,4 @@
-# Number Generator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Number Generator Widget for WordPress
 
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
