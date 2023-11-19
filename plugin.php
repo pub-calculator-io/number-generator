@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Number Generator by www.calculator.io
+Plugin Name: CI Number generator
 Plugin URI: https://www.calculator.io/number-generator/
 Description: The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 Version: 1.0.0

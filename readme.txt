@@ -1,4 +1,4 @@
-=== Number Generator by www.calculator.io ===
+=== CI Number generator ===
 Contributors: calculatorio
 Tags: number generator, random number generator, randomizer, random number picker, number picker, random sequence generator, number selector, random digit generator, lottery number generator, numeric generator
 Requires at least: 5.0
