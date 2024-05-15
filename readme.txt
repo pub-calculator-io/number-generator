@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Number Generato
 == Screenshots ==
 
 1. The Number Generator Input Form.
-2. The Number Generator Calculation Results.
 
 == Installation ==
 

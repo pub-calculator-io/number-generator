@@ -3,7 +3,6 @@
 The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
 
 ![Number Generator Input Form](/assets/images/screenshot-1.png "Number Generator Input Form")
-![Number Generator Calculation Results](/assets/images/screenshot-2.png "Number Generator Calculation Results")
 
 ## Installation
 
