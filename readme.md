@@ -1,6 +1,6 @@
 # Number Generator Widget for WordPress
 
-The random number generator provides a set of random numbers according to user-specified options such as range, repeat, and sort.
+Instantly generate random numbers with our customizable Number Generator. Set specific ranges, allow or prevent duplicates, and sort your results with ease.
 
 ![Number Generator Input Form](/assets/images/screenshot-1.png "Number Generator Input Form")
 
@@ -11,8 +11,8 @@ The random number generator provides a set of random numbers according to user-s
 3. Activate the [Number Generator](https://www.calculator.io/number-generator/ "Number Generator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_number_generator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_number_generator(); ?>` to your template where you would like the Number Generator to appear.
+* Add the shortcode `[calcio_number_generator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_number_generator(); ?>` to your template where you would like the Number Generator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
